@@ -139,4 +139,8 @@ h1{
     text-align: center;
     background-color: black;
     color: white;
+    padding-left: 33%;
+}
+.footer-color{
+    color: #E72EAF;
 }

@@ -126,11 +126,17 @@ h1{
     margin:7%;
     justify-content: center;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    padding: 2% 25%;
+    padding: 1% 28%;
     border-radius: 20px;
 }
 .views div{
     align-items: center;
    margin-left: 40%;
    margin-right: 20%;
+}
+.footer{
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
 }

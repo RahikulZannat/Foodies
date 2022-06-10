@@ -48,6 +48,11 @@ section{
     color: #828282;
     font-size: 18px;
 }
+.paragraph-1{
+    color: #828282;
+    font-size: 18px;
+    text-align: justify;
+}
 button{
     padding: 15px 25px;
     border-style: none;
@@ -86,5 +91,46 @@ h1{
     background-image:url(shapes/Frame\ 59.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    margin-bottom: 100px;
     
+}
+.recipie{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 7%;
+    
+}
+.heading{
+    align-items: center;
+    text-align: center;
+}
+.recipie-detail{
+    width: 27%;
+    padding: 1%;
+    text-align: center;
+    border-radius: 20px;
+    margin: 1%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+    
+}
+    
+.box .recipie .recipie-detail img {
+    width: 100%;
+}
+.views{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin:7%;
+    justify-content: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 2% 25%;
+    border-radius: 20px;
+}
+.views div{
+    align-items: center;
+   margin-left: 40%;
+   margin-right: 20%;
 }

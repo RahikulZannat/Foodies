@@ -26,6 +26,7 @@ body{
 section{
     display: flex;
     align-items: center;
+    
 }
 .intro{
     
@@ -61,4 +62,29 @@ button:hover{
     background-color: white;
     color: rgb(255, 255, 255);
     transition: all .4s ease;
+}
+  
+.intro-middle{
+    width: 60%;
+    padding-left: 55px;
+}
+.intro-1{
+    width: 40%;
+    padding-left: 5%;
+}
+.intro-2{
+    width: 40%;
+    margin-left: 70px;
+    padding-left: 40px;
+    text-align: justify;
+}
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.middle-body{
+    background-image:url(shapes/Frame\ 59.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }
